@@ -6,3 +6,8 @@ checking for rebase
 # 2 doing some commit 
 
 and see on main
+
+
+# 3 doing changes 
+
+and commiting on rebase branch
