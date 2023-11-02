@@ -9,3 +9,5 @@ pushed to branch demo
 # 3 added changes
 
 merge and add is working fine for first pull request 
+
+# 4 pushing to git and check for any conflict now or not
