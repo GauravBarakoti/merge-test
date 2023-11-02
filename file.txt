@@ -11,3 +11,6 @@ pushed to branch demo
 merge and add is working fine for first pull request 
 
 # 4 pushing to git and check for any conflict now or not
+
+# 5 the merge and commit is working file
+
