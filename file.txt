@@ -26,3 +26,7 @@ git merge -s resolve command
 ### testing 
 
 for checking command line pull request is generated 
+
+push to git 
+
+adding few more then push to github
