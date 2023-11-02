@@ -25,3 +25,6 @@ main to log branch
 using git merge -s resolve <branch_name>
 
 git not working 
+
+line 29 added 
+
