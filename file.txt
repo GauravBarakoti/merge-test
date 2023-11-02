@@ -1,3 +1,17 @@
+<<<<<<< .merge_file_CsKGOt
 # 1 using the merge to merge 
 
 added changes and push to git
+# 500 adding changes 
+
+checking for rebase
+
+@@@@
+
+adding some changes to check the rebase \\\\
+
+
+@@@@
+
+again on main
+>>>>>>> .merge_file_sIeeyh
