@@ -28,3 +28,5 @@ git not working
 
 line 29 added 
 line 30
+
+new line to test for git merge command
