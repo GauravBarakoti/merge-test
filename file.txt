@@ -10,3 +10,7 @@ adding some changes to check the rebase \\\\
 @@@@
 
 again on main
+
+# from the resolve command
+
+new changes added
