@@ -1,19 +1,3 @@
 # 1 adding changes 
 
-check for conflict using squash merge
-
-# 2 added to demo branch to check simple merge is working fine or not.
-
-pushed to branch demo
-
-# 3 added changes
-
-merge and add is working fine for first pull request 
-
-# 4 pushing to git and check for any conflict now or not
-
-# 5 the merge and commit is working file
-
-# 6 now checking with the squash
-
-on the demo branch if we can use this 
+checking for rebase
