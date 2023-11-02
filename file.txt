@@ -20,3 +20,7 @@ third line
 
 added new lines 
 
+main to log branch 
+
+using git merge -s resolve <branch_name>
+
