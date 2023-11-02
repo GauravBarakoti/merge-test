@@ -1,3 +1,8 @@
 # 1 adding changes 
 
 check for conflict using squash merge
+
+# 2 added changes
+
+first pull request merge was successfull 
+
