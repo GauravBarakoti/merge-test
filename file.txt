@@ -6,3 +6,6 @@ check for conflict using squash merge
 
 first pull request merge was successfull 
 
+# 3 added changes to the file 
+
+now pushed to branch
