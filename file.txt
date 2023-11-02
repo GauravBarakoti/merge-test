@@ -24,3 +24,5 @@ for creating same conflict
 git merge -s resolve command 
 
 ### testing 
+
+for checking command line pull request is generated 
