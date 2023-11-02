@@ -17,3 +17,6 @@ merge and add is working fine for first pull request
 # 6 now checking with the squash
 
 on the demo branch if we can use this 
+
+
+# 7 now testing for the squash merge on demo branch for two commits
