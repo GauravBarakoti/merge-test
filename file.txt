@@ -22,3 +22,5 @@ for creating same conflict
 ## test for conflict resolve in this 
 
 git merge -s resolve command 
+
+### testing 
