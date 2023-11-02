@@ -18,3 +18,7 @@ new changes added
 ## doing some commit 
 
 for creating same conflict
+
+## test for conflict resolve in this 
+
+git merge -s resolve command 
