@@ -20,3 +20,7 @@ on the demo branch if we can use this
 
 
 # 7 now testing for the squash merge on demo branch for two commits
+
+# 8 
+
+psuhing to git branch demo
