@@ -10,13 +10,11 @@ The Gitlab-CI is used on the `main` branch, every time we push any changes, it `
 
 The pipeline consists of `two stages`:
 
-![Alt text](image-1.png)
 ![image-1](https://github.com/GauravBarakoti/merge-test/assets/110706861/f9111d0f-f23d-42eb-ae9e-39270fa7b7c5)
 
 
 The first stage is named as `code-build` stage:
 
-![Alt text](image-3.png)
 
 ![image-3](https://github.com/GauravBarakoti/merge-test/assets/110706861/5e11c019-b433-496f-8650-32d8340a1544)
 
@@ -27,7 +25,6 @@ I have used `node:20.10.0` docker image in this stage and then installed the `ya
 
 And, the second stage is named as `image-build-and-push` stage:
 
-![Alt text](image-4.png)
 
 ![image-4](https://github.com/GauravBarakoti/merge-test/assets/110706861/8718e032-fbf1-4578-bf64-cfc48f096218)
 
@@ -41,7 +38,6 @@ Then I gave a `tag` to this image which is `registry.digitalocean.com/quantum-ba
 
 Here `%Y` represents the `year` and `%m` represents the `month` and `$CI_CONCURRENT_ID` is representing a `unique ID` of build execution, e.g.
 
-![Alt text](image-5.png)
 
 ![image-5](https://github.com/GauravBarakoti/merge-test/assets/110706861/254a1b3a-5f5a-4d71-b562-10319d5eb0a6)
 
@@ -57,7 +53,6 @@ I have implemented ArgoCD Image Updater on the `develop` branch.
 
 `What ArgoCD Image Updater is doing` here is that whenever ArgoCD Image Updater finds a new docker image version, `it updates the image tag on the GitLab` like this in the photo:
 
-![Alt text](image-6.png)
 
 ![image-6](https://github.com/GauravBarakoti/merge-test/assets/110706861/d2f35aeb-750e-408c-8d7c-dc7647b8b289)
 
@@ -65,7 +60,6 @@ I have implemented ArgoCD Image Updater on the `develop` branch.
 ![image-7](https://github.com/GauravBarakoti/merge-test/assets/110706861/8e66d362-65d5-4ef2-bb18-9c04da58bc3b)
 
 
-![Alt text](image-7.png)
 
 That is why I asked you for a new `GitLab token with write access`.
 
